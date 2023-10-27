@@ -1,3 +1,5 @@
+import Module from "module";
+
 interface Board {
   columns: Map<TypedColumn, Column>;
 }
